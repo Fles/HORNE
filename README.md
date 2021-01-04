@@ -2,8 +2,6 @@
 
 Prototype idea for creating loudspeaker (cut with CNC) 
 
-_Built with SolidWorks_
-
 ### Details
 - Mass 131057.13 grams
 - Volume 16802195.97 cubic millimeters
@@ -14,3 +12,5 @@ _Built with SolidWorks_
 ![ZvucnikRastavljen](./public/img/ZvucnikRastavljen.jpg)
 ![dio](./public/img/dio.JPG)
 ![PREZENTACIJA2](./public/img/PREZENTACIJA2.jpg)
+
+_Built with SolidWorks_
