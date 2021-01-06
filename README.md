@@ -1,6 +1,7 @@
 ## HORNE 
 
-Prototype idea for creating loudspeaker (cut with CNC) 
+### Prototype loudspeaker 
+- cut with CNC
 
 ### Details
 - Mass 131057.13 grams
