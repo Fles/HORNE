@@ -1,9 +1,8 @@
 ## HORNE 
 
 ### Prototype loudspeaker 
-- cut with CNC
 
-### Details
+#### Details
 - Mass 131057.13 grams
 - Volume 16802195.97 cubic millimeters
 - Surface 3307410.45 square millimeters
@@ -15,3 +14,5 @@
 ![PREZENTACIJA2](./public/img/PREZENTACIJA2.jpg)
 
 _Built with SolidWorks_
+
+_To cut with CNC_
